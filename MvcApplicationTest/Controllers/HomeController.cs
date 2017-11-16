@@ -11,6 +11,7 @@ namespace MvcApplicationTest.Controllers
         public ActionResult Index()
         {
             return View();
+            //This is the first comment.
         }
     }
 }
